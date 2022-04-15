@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jquery Crash Course | Selectors</title>
+    <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script defer src="./main.js"></script>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Jquery Crash Course</h1>
+    </header>
+
+    <div id="container">
+      <div id="result"></div>
+      <ul id="users"></ul>
+      <h3>Add post</h3>
+      <form id="postForm" action="http://jsonplaceholder.typicode.com/users">
+        <input type="text" id="title" placeholder="Title" /><br />
+        <textarea placeholder="Body" id="body" cols="30" rows="10"></textarea>
+        <br />
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+  </body>
+</html>

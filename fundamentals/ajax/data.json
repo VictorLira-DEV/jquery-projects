@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Karmen",
+    "last_name": "Dundridge",
+    "email": "kdundridge0@storify.com",
+    "gender": "Female",
+    "ip_address": "59.165.209.76"
+  },
+  {
+    "id": 2,
+    "first_name": "Joana",
+    "last_name": "Huckerby",
+    "email": "jhuckerby1@techcrunch.com",
+    "gender": "Bigender",
+    "ip_address": "114.218.106.253"
+  },
+  {
+    "id": 3,
+    "first_name": "Margaux",
+    "last_name": "Ferenczy",
+    "email": "mferenczy2@whitehouse.gov",
+    "gender": "Female",
+    "ip_address": "156.174.227.253"
+  },
+  {
+    "id": 4,
+    "first_name": "Pavel",
+    "last_name": "Hamill",
+    "email": "phamill3@a8.net",
+    "gender": "Polygender",
+    "ip_address": "27.234.69.251"
+  },
+  {
+    "id": 5,
+    "first_name": "Nealson",
+    "last_name": "Tomsen",
+    "email": "ntomsen4@epa.gov",
+    "gender": "Male",
+    "ip_address": "191.94.122.199"
+  },
+  {
+    "id": 6,
+    "first_name": "Riccardo",
+    "last_name": "Fitzer",
+    "email": "rfitzer5@mail.ru",
+    "gender": "Male",
+    "ip_address": "177.172.59.140"
+  },
+  {
+    "id": 7,
+    "first_name": "Katlin",
+    "last_name": "Sumshon",
+    "email": "ksumshon6@wp.com",
+    "gender": "Agender",
+    "ip_address": "92.163.193.113"
+  },
+  {
+    "id": 8,
+    "first_name": "Kit",
+    "last_name": "Trevance",
+    "email": "ktrevance7@earthlink.net",
+    "gender": "Male",
+    "ip_address": "13.65.52.211"
+  },
+  {
+    "id": 9,
+    "first_name": "Bertha",
+    "last_name": "Castle",
+    "email": "bcastle8@loc.gov",
+    "gender": "Genderqueer",
+    "ip_address": "10.245.165.215"
+  },
+  {
+    "id": 10,
+    "first_name": "Dalli",
+    "last_name": "Ridder",
+    "email": "dridder9@opensource.org",
+    "gender": "Male",
+    "ip_address": "58.15.212.185"
+  }
+]
